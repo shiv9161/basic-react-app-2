@@ -8,14 +8,14 @@ const ContactHead = () => {
           CONTACT US
         </p>
         <p className="h6">
-          We'd love to hear from you!We'd love to hear from you!We'd love to
-          hear from you!We'd love to hear from you!We'd love to hear from
-          you!We'd love to hear from you!We'd love to hear from you!We'd love to
-          hear from you!We'd love to hear from you!We'd love to hear from you!
-          We'd love to hear from you!We'd love to hear from you!We'd love to
-          hear from you!We'd love to hear from you!We'd love to hear from
-          you!We'd love to hear from you!We'd love to hear from you!We'd love to
-          hear from you!We'd love to hear from you!We'd love to hear from you!
+          We'd love to hear from you! We'd love to hear from you! We'd love to
+          hear from you! We'd love to hear from you! We'd love to hear from you!
+          We'd love to hear from you! We'd love to hear from you! We'd love to
+          hear from you! We'd love to hear from you! We'd love to hear from you!
+          We'd love to hear from you! We'd love to hear from you!We'd love to
+          hear from you! We'd love to hear from you! We'd love to hear from you!
+          We'd love to hear from you! We'd love to hear from you! We'd love to
+          hear from you! We'd love to hear from you! We'd love to hear from you!
         </p>
       </div>
     </>
