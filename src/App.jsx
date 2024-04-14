@@ -1,5 +1,6 @@
 import "./App.css";
 import ContactHead from "./components/ContactHead";
+import FormHead from "./components/FormHead";
 import NavigationBar from "./components/Navbar";
 
 function App() {
@@ -7,6 +8,7 @@ function App() {
     <>
       <NavigationBar />
       <ContactHead />
+      <FormHead />
     </>
   );
 }
